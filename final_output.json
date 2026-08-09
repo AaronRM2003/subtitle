@@ -1,0 +1,229 @@
+{
+  "image": "poster.jpg",
+  "texts": [
+    {
+      "x": 505,
+      "y": 7,
+      "w": 110,
+      "h": 19,
+      "fontColor": "#ffffff",
+      "backgroundColor": "#fefefe"
+    },
+    {
+      "x": 361,
+      "y": 10,
+      "w": 129,
+      "h": 45,
+      "fontColor": "#fcfefe",
+      "backgroundColor": "#fcfdfe"
+    },
+    {
+      "x": 26,
+      "y": 11,
+      "w": 208,
+      "h": 50,
+      "fontColor": "#fcfdfe",
+      "backgroundColor": "#fbfdfd"
+    },
+    {
+      "x": 239,
+      "y": 19,
+      "w": 89,
+      "h": 35,
+      "fontColor": "#f9fcfc",
+      "backgroundColor": "#fafcfd"
+    },
+    {
+      "x": 324,
+      "y": 19,
+      "w": 35,
+      "h": 32,
+      "fontColor": "#fbfdfd",
+      "backgroundColor": "#fbfdfd"
+    },
+    {
+      "x": 331,
+      "y": 57,
+      "w": 118,
+      "h": 44,
+      "fontColor": "#e8eff6",
+      "backgroundColor": "#ecf2f8"
+    },
+    {
+      "x": 35,
+      "y": 58,
+      "w": 172,
+      "h": 42,
+      "fontColor": "#2870b2",
+      "backgroundColor": "#2971b2"
+    },
+    {
+      "x": 208,
+      "y": 65,
+      "w": 120,
+      "h": 34,
+      "fontColor": "#2c6cac",
+      "backgroundColor": "#edf3f9"
+    },
+    {
+      "x": 25,
+      "y": 127,
+      "w": 330,
+      "h": 58,
+      "fontColor": "#f2f8fb",
+      "backgroundColor": "#f4f8fb"
+    },
+    {
+      "x": 359,
+      "y": 132,
+      "w": 72,
+      "h": 35,
+      "fontColor": "#f3f7fa",
+      "backgroundColor": "#f3f8fb"
+    },
+    {
+      "x": 61,
+      "y": 175,
+      "w": 213,
+      "h": 44,
+      "fontColor": "#faf9fc",
+      "backgroundColor": "#3c66a2"
+    },
+    {
+      "x": 279,
+      "y": 182,
+      "w": 118,
+      "h": 42,
+      "fontColor": "#664f83",
+      "backgroundColor": "#4c5e96"
+    },
+    {
+      "x": 417,
+      "y": 229,
+      "w": 54,
+      "h": 25,
+      "fontColor": "#b5194a",
+      "backgroundColor": "#fefcfd"
+    },
+    {
+      "x": 87,
+      "y": 239,
+      "w": 59,
+      "h": 43,
+      "fontColor": "#b51949",
+      "backgroundColor": "#b41948"
+    },
+    {
+      "x": 141,
+      "y": 235,
+      "w": 141,
+      "h": 56,
+      "fontColor": "#b11945",
+      "backgroundColor": "#af1943"
+    },
+    {
+      "x": 279,
+      "y": 240,
+      "w": 96,
+      "h": 36,
+      "fontColor": "#b71a4a",
+      "backgroundColor": "#b41948"
+    },
+    {
+      "x": 434,
+      "y": 233,
+      "w": 82,
+      "h": 69,
+      "fontColor": "#ae1942",
+      "backgroundColor": "#ad1941"
+    },
+    {
+      "x": 20,
+      "y": 238,
+      "w": 72,
+      "h": 48,
+      "fontColor": "#b61a49",
+      "backgroundColor": "#b51949"
+    },
+    {
+      "x": 390,
+      "y": 244,
+      "w": 33,
+      "h": 47,
+      "fontColor": "#b11944",
+      "backgroundColor": "#b01943"
+    },
+    {
+      "x": 381,
+      "y": 273,
+      "w": 72,
+      "h": 63,
+      "fontColor": "#911327",
+      "backgroundColor": "#e7f216"
+    },
+    {
+      "x": 461,
+      "y": 279,
+      "w": 48,
+      "h": 58,
+      "fontColor": "#95162b",
+      "backgroundColor": "#99172d"
+    },
+    {
+      "x": 461,
+      "y": 293,
+      "w": 20,
+      "h": 18,
+      "fontColor": "#a31839",
+      "backgroundColor": "#e8f115"
+    },
+    {
+      "x": 163,
+      "y": 298,
+      "w": 219,
+      "h": 43,
+      "fontColor": "#e6f114",
+      "backgroundColor": "#9c1631"
+    },
+    {
+      "x": 24,
+      "y": 307,
+      "w": 137,
+      "h": 41,
+      "fontColor": "#a41739",
+      "backgroundColor": "#a7173c"
+    },
+    {
+      "x": 427,
+      "y": 320,
+      "w": 41,
+      "h": 19,
+      "fontColor": "#8b0928",
+      "backgroundColor": "#960f2f"
+    },
+    {
+      "x": 547,
+      "y": 324,
+      "w": 76,
+      "h": 11,
+      "fontColor": "#8b0f24",
+      "backgroundColor": "#911328"
+    },
+    {
+      "x": 556,
+      "y": 335,
+      "w": 27,
+      "h": 8,
+      "fontColor": "#e7f412",
+      "backgroundColor": "#99142f"
+    },
+    {
+      "x": 584,
+      "y": 335,
+      "w": 30,
+      "h": 8,
+      "fontColor": "#870e21",
+      "backgroundColor": "#e9ef18"
+    }
+  ]
+}

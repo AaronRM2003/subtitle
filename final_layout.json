@@ -1,0 +1,122 @@
+{
+  "image": "poster.jpg",
+  "texts": [
+    {
+      "text": "ടവങ്ങത്‌",
+      "x": 483,
+      "y": 19,
+      "w": 223,
+      "h": 110,
+      "fontColor": "#f6fafc",
+      "backgroundColor": "#f7fafc"
+    },
+    {
+      "text": "വർത്ത",
+      "x": 734,
+      "y": 19,
+      "w": 212,
+      "h": 110,
+      "fontColor": "#3374b0",
+      "backgroundColor": "#3475b0"
+    },
+    {
+      "text": "_",
+      "x": 1006,
+      "y": 60,
+      "w": 2,
+      "h": 2,
+      "fontColor": "#f6faf9",
+      "backgroundColor": "#fdfdfa"
+    },
+    {
+      "text": "യ്‌",
+      "x": 440,
+      "y": 89,
+      "w": 21,
+      "h": 13,
+      "fontColor": "#6c4779",
+      "backgroundColor": "#4d5d94"
+    },
+    {
+      "text": "സിയ",
+      "x": 489,
+      "y": 83,
+      "w": 43,
+      "h": 29,
+      "fontColor": "#f7f6fa",
+      "backgroundColor": "#3d66a4"
+    },
+    {
+      "text": "ബില്‌",
+      "x": 578,
+      "y": 90,
+      "w": 71,
+      "h": 12,
+      "fontColor": "#7a4270",
+      "backgroundColor": "#f4f4f9"
+    },
+    {
+      "text": "യ്‌",
+      "x": 660,
+      "y": 94,
+      "w": 48,
+      "h": 8,
+      "fontColor": "#f9edf5",
+      "backgroundColor": "#645284"
+    },
+    {
+      "text": "വ",
+      "x": 734,
+      "y": 97,
+      "w": 48,
+      "h": 5,
+      "fontColor": "#ab325c",
+      "backgroundColor": "#f5f5fa"
+    },
+    {
+      "text": "ത്‌",
+      "x": 796,
+      "y": 83,
+      "w": 17,
+      "h": 29,
+      "fontColor": "#f8f6f9",
+      "backgroundColor": "#f7f8fa"
+    },
+    {
+      "text": "ബാത്‌",
+      "x": 820,
+      "y": 83,
+      "w": 39,
+      "h": 29,
+      "fontColor": "#545c90",
+      "backgroundColor": "#f6f7f8"
+    },
+    {
+      "text": "വയി",
+      "x": 868,
+      "y": 83,
+      "w": 32,
+      "h": 29,
+      "fontColor": "#f6f6f4",
+      "backgroundColor": "#f7f8f4"
+    },
+    {
+      "text": "ഇങ്ങൾ",
+      "x": 77,
+      "y": 113,
+      "w": 334,
+      "h": 84,
+      "fontColor": "#2f6dad",
+      "backgroundColor": "#f5f7fa"
+    },
+    {
+      "text": "വങ്ങന്‌",
+      "x": 422,
+      "y": 119,
+      "w": 238,
+      "h": 77,
+      "fontColor": "#2d6eaf",
+      "backgroundColor": "#f5f8fa"
+    }
+  ]
+}

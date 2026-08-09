@@ -1,0 +1,37 @@
+[Script Info]
+Title: Dark Thin Pink Border Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour,         Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle,         Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+
+; BorderStyle=1 => outline only
+; Outline => thickness (clean look)
+
+Style: Default,Arial ,57,&H00FFFFFF,&H00000000,&H006010CC,&H00000000,       1,0,0,0,104,104,0,0,1,1.5,0,2,100,100,400,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\an2\fad(180,180)}The greatest benefit of the\NCovenant is this, 'Salvation'\Nmeans our eternal salvation, and\N'desire' means our daily needs.
+Dialogue: 0,0:00:05.00,0:00:11.00,Default,,0,0,0,,{\an2\fad(180,180)}Receiving both your daily needs\Nand your eternal salvation in a\Nsingle divine package, that is the\Ntrue power of the Covenant.
+Dialogue: 0,0:00:11.00,0:00:20.00,Default,,0,0,0,,{\an2\fad(180,180)}For those living in the Covenant,\Naccording to God's perfect plan\Nand purpose divinely designed by\Nthe Holy Spirit,
+Dialogue: 0,0:00:20.00,0:00:27.00,Default,,0,0,0,,{\an2\fad(180,180)}The divine experience and divine\Nprotection happening here at\NKreupasanam is an immensely\Npowerful Covenant.
+Dialogue: 0,0:00:27.00,0:00:35.00,Default,,0,0,0,,{\an2\fad(180,180)}Because our Blessed Mother is its\Ninitiator and the Intercessor of\Nthis Covenant, it is rightfully\Nknown as a Marian Covenant.
+Dialogue: 0,0:00:35.00,0:00:42.00,Default,,0,0,0,,{\an2\fad(180,180)}Making Christ an integral part of\Nthe solution to human material\Nlack is a profound Marian\Nperspective.
+Dialogue: 0,0:00:42.00,0:00:51.00,Default,,0,0,0,,{\an2\fad(180,180)}That is exactly why Jesus' mother\Nsaid to Him that they have no\Nwine, pointing out to the world\Nthat Jesus is the One to whom our\Nlack must be presented.
+Dialogue: 0,0:00:51.00,0:00:56.00,Default,,0,0,0,,{\an2\fad(180,180)}It is Mary who reveals this to the\Nworld, because Mary treasured\Nthese divine mysteries in her\Nheart.
+Dialogue: 0,0:00:56.00,0:01:05.00,Default,,0,0,0,,{\an2\fad(180,180)}What did Mary treasure in her\Nheart? I often ask myself this\Nquestion, and the Holy Spirit\Ncontinually affirms to me: 'Jesus\Nis everything.'
+Dialogue: 0,0:01:05.00,0:01:13.00,Default,,0,0,0,,{\an2\fad(180,180)}She is the chosen woman to whom\Nthe divine mysteries of God's\Nincarnation were first entrusted\Nin salvation history.
+Dialogue: 0,0:01:13.00,0:01:20.00,Default,,0,0,0,,{\an2\fad(180,180)}Our Blessed Mother, blessed and\Ngiven the divine path by God,\Nholds the complete revelation of\Nexactly who Jesus is.
+Dialogue: 0,0:01:20.00,0:01:27.00,Default,,0,0,0,,{\an2\fad(180,180)}That is why, when this lack\Noccurred, the mother of Jesus told\NHim that they have no wine.
+Dialogue: 0,0:01:27.00,0:01:38.00,Default,,0,0,0,,{\an2\fad(180,180)}Whatever happens in our lives\Nwithin the Marian Covenant, just\Nlike at the wedding in Cana, your\NMother will continually intercede\Nfor you to Jesus.
+Dialogue: 0,0:01:38.00,0:01:43.00,Default,,0,0,0,,{\an2\fad(180,180)}Until you receive your miracle,\NMother Mary will remain the\Nvigilant guardian of your\NCovenant.
+Dialogue: 0,0:01:43.00,0:01:52.00,Default,,0,0,0,,{\an2\fad(180,180)}That is why Doing exactly as He\Ncommands is the essence of the\NMarian Mission, and it is firmly\Nin this Marian Mission that we\Nstand today.
+Dialogue: 0,0:01:52.00,0:01:59.00,Default,,0,0,0,,{\an2\fad(180,180)}May God abundantly bless us to\Ncarry this out meaningfully and\Nvibrantly. In the Name of the\NFather, and of the Son, and of the\NHoly Spirit.

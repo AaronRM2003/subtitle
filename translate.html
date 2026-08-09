@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Textarea to Visible Text (Translatable)</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+    background: #f0f0f0;
+  }
+  textarea {
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  #output {
+    margin-top: 20px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    min-height: 50px;
+    white-space: pre-wrap;
+  }
+  p.entry {
+    margin: 8px 0;
+    padding: 6px 10px;
+    background: #e0e7ff;
+    border-radius: 6px;
+  }
+</style>
+</head>
+<body>
+
+<h2>Type text and press Enter → it becomes visible text below</h2>
+<textarea id="inputText" placeholder="Type here..."></textarea>
+<div id="output"></div>
+
+<script>
+const textarea = document.getElementById('inputText');
+const output = document.getElementById('output');
+
+textarea.addEventListener('keydown', function(e){
+  if(e.key === 'Enter' && !e.shiftKey){ // Enter without Shift
+    e.preventDefault();
+    const text = textarea.value.trim();
+    if(text){
+      const p = document.createElement('p');
+      p.className = 'entry';
+      p.textContent = text;
+      output.appendChild(p);
+      textarea.value = '';
+      textarea.focus();
+    }
+  }
+});
+</script>
+
+</body>
+</html>
